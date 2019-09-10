@@ -1,6 +1,6 @@
 ![EU FOSSA OSS hackathon visual](./assets/oss-hackathon-visual.png)
 
-# OSS Cyber Security Hackathon
+# EU-FOSSA Cyber Security Hackathon
 
 After two successful [hackathons](https://eufossahackathon.bemyapp.com/), which strengthened the security of open source software PHP Symfony, API Platform and projects from the Apache Software Foundation; the third hackathon focusses on the security of the EU's developed open source projects.
 
