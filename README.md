@@ -1,5 +1,4 @@
-<p align="center"><img src="./assets/oss-hackathon-visual.png" style="margin:
-10px" alt="EU FOSSA OSS hackathon visual"/></p>
+![EU FOSSA OSS hackathon visual](./assets/oss-hackathon-visual.png)
 
 # OSS Cyber Security Hackathon
 
