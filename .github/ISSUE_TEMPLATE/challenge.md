@@ -3,7 +3,7 @@ name: Challenge
 about: Describe a topic, feature, task or issue you would like to work on during the
   hackathon
 title: ''
-labels: ''
+labels: challenge
 assignees: ''
 
 ---
