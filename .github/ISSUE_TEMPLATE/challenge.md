@@ -1,6 +1,6 @@
 ---
 name: Challenge
-about: Describe a topic, feature, task or issue you would like to work on during the
+about: Describe the topics, features, tasks or issues you plan to work on during the
   hackathon
 title: ''
 labels: challenge
@@ -10,6 +10,12 @@ assignees: ''
 
 **Project name**
 
-**Link(s) to project website, repository, issue**
+**Project website**
+
+**Project repository**
 
 **Challenge description**
+<!-- A summary of the tasks to be worked on during the hackathon. -->
+
+**Link(s) to existing issues**
+<!-- A list of links pointing to your project related tickets or issues. -->
