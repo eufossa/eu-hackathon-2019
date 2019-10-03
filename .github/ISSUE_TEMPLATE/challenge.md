@@ -17,5 +17,5 @@ assignees: ''
 **Challenge description**
 <!-- A summary of the tasks to be worked on during the hackathon. -->
 
-**Link(s) to existing issues**
+**Link(s) to existing issue(s)**
 <!-- A list of links pointing to your project related tickets or issues. -->
