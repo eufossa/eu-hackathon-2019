@@ -14,6 +14,7 @@ The event took place at the start of October, EU's [CyberSecMonth](https://cyber
 
 Goals and achievements made by the projects maintainers and contributors during the event:
 
+* [WSO2 API Gateway](achievements/api-gateway.md)
 * [DSS](achievements/dss.md)
 * [PHP @ EC](achievements/ecphp.md)
 * [Enterprise Search](achievements/enterprise-search.md)
