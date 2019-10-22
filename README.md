@@ -30,6 +30,8 @@ Goals and achievements made by the projects maintainers and contributors during 
 
 <p align="center"><img src="./assets/group-photo.jpg"/></p>
 
+[Photo album](https://www.flickr.com/photos/bemyapp/albums/72157711187061438)
+
 ## About EU-FOSSA
 
 The [EU-FOSSA](https://ec.europa.eu/info/departments/informatics/eu-fossa-2_en) project - short for Free and Open Source Software Auditing - aims to increase the security and integrity of critical open source software.
