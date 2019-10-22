@@ -29,4 +29,4 @@ While both projects are still in development, we made a lot of progress during t
 * Developing a first implementation of a PSR-based CAS client
 * Creating connections with PHP open source developers and communities
 
-<p align="center"><img src="./assets/ecphp.jpg"/></p>
+<p align="center"><img src="../assets/ecphp.jpg"/></p>
