@@ -2,7 +2,7 @@
 
 # EU-FOSSA Cyber Security Hackathon
 
-After two successful [hackathons](https://eufossahackathon.bemyapp.com/), which strengthened the security of open source software PHP Symfony, API Platform and projects from the Apache Software Foundation; the third hackathon focussed on the security of the EU's developed open source projects.
+After two successful [hackathons](https://eufossahackathon.bemyapp.com/), which strengthened the security of open source software [PHP Symfony - API Platform](https://eufossa.github.io/symfony-hackathon-2019/) and projects from the [Apache Software Foundation](https://eufossa.github.io/apache-hackathon-2019/); the third hackathon focussed on the security of the EU's developed open source projects.
 
 During the weekend of 5/6 October, close to 100 developers and software architects from internal project teams and leading open source software experts from around the world, gathered in Brussels at [Silversquare Triomphe](https://silversquare.eu/location/triomphe/) to work on strengthening a select set of EU projects.
 
