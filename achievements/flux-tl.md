@@ -9,6 +9,8 @@ Features:
 * To exchange Fisheries Control data (e.g. vessel positions, fishing activity)
 * Using an international standard (UN/FLUX)
 
+The General Principles of the FLUX TL Protocol are published by DG MARE (section ["FLUX Transportation Layer and Protocol"](https://ec.europa.eu/fisheries/cfp/control/technologies_en)). There is an Open Source community of fisheries data experts supporting FLUX >> [FOCUS](http://www.focus.fish/)
+
 Every node of the network runs a FLUX TL end node. Commission runs a central node to which all are connected.
 
 FLUX TL has 4 components: WS, WebApp, BRIDGE and NAFConnector.
