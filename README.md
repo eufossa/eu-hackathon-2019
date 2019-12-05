@@ -15,7 +15,7 @@ The event took place at the start of October, EU's [CyberSecMonth](https://cyber
 Goals and achievements made by the projects maintainers and contributors during the event:
 
 * [DSS](achievements/dss.md)
-* [PHP @ EC](achievements/ecphp.md)
+* [ECPHP](achievements/ecphp.md)
 * [Enterprise Search](achievements/enterprise-search.md)
 * [eUI](achievements/eui.md)
 * [FLUX TL](achievements/flux-tl.md)

@@ -1,8 +1,8 @@
-# EC PHP
+# ECPHP
 
 ## About
 
-The EC PHP project is an initiative of [PHP](https://www.php.net/) developers at the European Commission to make the PHP language and technologies within the Commission easier to install, use and develop with.
+The [ECPHP](https://joinup.ec.europa.eu/collection/ecphp) project is an initiative of [PHP](https://www.php.net/) developers at the European Commission to make the PHP language and technologies within the Commission easier to install, use and develop with.
 
 The goal is also to contribute back to the PHP community and develop a set of reusable open source components.
 
