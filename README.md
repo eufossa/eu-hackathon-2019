@@ -25,7 +25,6 @@ Goals and achievements made by the projects maintainers and contributors during 
 * [PHPStan](achievements/phpstan.md)
 * [PHPUnit](achievements/phpunit.md)
 * [Workflow Integration](achievements/workflow-integration.md)
-* [WSO2 API Gateway](achievements/api-gateway.md)
 
 ## Group photo
 
